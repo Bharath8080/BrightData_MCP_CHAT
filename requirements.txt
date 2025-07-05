@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pydantic
+mcp
+langchain-openai
+langchain-mcp-adapters
+langgraph
